@@ -41,3 +41,9 @@ html, body {
   justify-content: flex-start;
   padding: 48px 16px 64px;
 }
+
+@media (max-width: 520px) {
+  #root {
+    padding: 32px 12px 48px;
+  }
+}

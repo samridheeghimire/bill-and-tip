@@ -19,7 +19,7 @@ npm run build
 npm run preview
 ```
 
-Not deployed anywhere currently.
+(https://bill-and-tip.vercel.app/)
 
 
 
