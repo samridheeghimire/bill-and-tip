@@ -19,7 +19,11 @@ npm run build
 npm run preview
 ```
 
+<<<<<<< HEAD
 (https://bill-and-tip.vercel.app/)
+=======
+https://bill-and-tip.vercel.app/
+>>>>>>> 6b0078616e564e7c73b222efc8544557700605d7
 
 
 
